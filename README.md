@@ -8,6 +8,6 @@ An interactive mini-game collection developed as part of the **GrowGo** project,
 * **🌱 Part of GrowGo Ecosystem:** Built to complement the cozy simulation vibe and user experience of the main GrowGo project.
 
 ## 🛠️ Tools & Tech Stack
-* **Frontend / Language:** JavaScript, HTML/CSS (หรือระบุ Framework ที่ใช้จริง เช่น React)
+* **Frontend / Language:** C# (unity)
 * **Design & UI/UX:** Figma (UI/UX Design, User Flow, and Interactive Prototyping)
 * **Version Control:** Git & GitHub
